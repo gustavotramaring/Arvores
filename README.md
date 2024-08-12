@@ -1,9 +1,7 @@
 <center>
-    <h1 align="center">Sistema de Criação de Objetos</h1>
-    <h4 align="center">Trabalho da matéria de Introdução a Linguagem de programação: <strong>Orientação a Objetos</strong> </h4>
+    <h1 align="center">Arvoress</h1>
   <p align="center">
-        <strong>Data de Entrega:</strong> 15 Setembro 2023<br>
-        <strong>Valor:</strong> 100 pontos
+        <strong>Data de Entrega:</strong> 12 de Agosto de 2024<br>
     </p> 
 </center>
 
@@ -11,8 +9,7 @@
 Implementar a funcionalidade de remoção de nós na árvore. Para isso, garantir os seguintes cenários:
 
     Remoção do nó raiz.
-    Remoção
-     de nós folhas.
+    Remoção de nós folhas.
     Remoção de nós que possuem apenas um filho.
     Remoção de nós que possuem os dois filhos.
 
